@@ -4,4 +4,4 @@ Run analysis
 
 Make table
 
-Make small figure,red line
+Make small figure, red line
